@@ -1,12 +1,8 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all they need to know. The comments should usually include at least:
-------------------------------------------------------------------------
+PROJECT TITLE: Instrument Management System
+PURPOSE OF PROJECT: Manage Instrument Renting and Selling
+VERSION or DATE: 1
+HOW TO START THIS PROJECT: Run BlueJ IDE for java and call main method from "Sarangi Sansar"
+AUTHORS: Srijan Shakya
+USER INSTRUCTIONS: Handle with patient
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+This is a project for given by my university. 
