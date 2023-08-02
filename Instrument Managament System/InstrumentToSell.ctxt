@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=InstrumentToSell
+comment0.text=\r\n\ InstrumentToSell\ has\ 4\ instance\ variable\r\n\ Constructor\ having\ tow\ parameter\ is\ created\r\n\ @author\ (Srijan\ Shakya)\r\n\ @version\ (21049600,\ 17.0.1)\r\n
+comment1.params=instrumentName\ price
+comment1.target=InstrumentToSell(java.lang.String,\ float)
+comment10.params=customerName\ customerMobileNumber\ customerPAN\ sellDate\ discountPercent
+comment10.target=void\ InstrumentSell(java.lang.String,\ java.lang.String,\ long,\ java.lang.String,\ float)
+comment11.params=
+comment11.target=void\ display()
+comment2.params=price
+comment2.target=void\ setPrice(float)
+comment3.params=sellDate
+comment3.target=void\ setSellDate(java.lang.String)
+comment4.params=discountPercent
+comment4.target=void\ setDiscountPercent(float)
+comment5.params=isSold
+comment5.target=void\ setIsSold(boolean)
+comment6.params=
+comment6.target=float\ getPrice()
+comment7.params=
+comment7.target=java.lang.String\ getSellDate()
+comment8.params=
+comment8.target=float\ getDiscountPercent()
+comment9.params=
+comment9.target=boolean\ getIsSold()
+numComments=12
